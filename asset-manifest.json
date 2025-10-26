@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coralina2/static/css/main.1454917e.css",
+    "main.js": "/coralina2/static/js/main.839239d9.js",
+    "static/js/453.d37bcb50.chunk.js": "/coralina2/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/coralina2/index.html",
+    "main.1454917e.css.map": "/coralina2/static/css/main.1454917e.css.map",
+    "main.839239d9.js.map": "/coralina2/static/js/main.839239d9.js.map",
+    "453.d37bcb50.chunk.js.map": "/coralina2/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1454917e.css",
+    "static/js/main.839239d9.js"
+  ]
+}
