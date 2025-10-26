@@ -1,7 +1,0 @@
-1. вставь свой txt в input.txt
-2. запусти node okonchania.js (чтобы создать окончания в ANSWERS)
-3. скопируй данные из output.txt и вставь их в input.js
-4. запусти node script_odin.js (чтобы превратить двойные  |_||_| в |_|)
-5. скопируй данные из output.txt и вставь их в data.txt
-6. запусти node creatJSON.js (чтобы создать json)
-7. скопируй данные из output.json в json проекта, например в tasks_shrek.js
