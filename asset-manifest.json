@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coralina2/static/css/main.7c659887.css",
-    "main.js": "/coralina2/static/js/main.ebe4d57c.js",
+    "main.css": "/coralina2/static/css/main.f57cf47c.css",
+    "main.js": "/coralina2/static/js/main.828fbacf.js",
     "static/js/453.d37bcb50.chunk.js": "/coralina2/static/js/453.d37bcb50.chunk.js",
     "index.html": "/coralina2/index.html",
-    "main.7c659887.css.map": "/coralina2/static/css/main.7c659887.css.map",
-    "main.ebe4d57c.js.map": "/coralina2/static/js/main.ebe4d57c.js.map",
+    "main.f57cf47c.css.map": "/coralina2/static/css/main.f57cf47c.css.map",
+    "main.828fbacf.js.map": "/coralina2/static/js/main.828fbacf.js.map",
     "453.d37bcb50.chunk.js.map": "/coralina2/static/js/453.d37bcb50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c659887.css",
-    "static/js/main.ebe4d57c.js"
+    "static/css/main.f57cf47c.css",
+    "static/js/main.828fbacf.js"
   ]
 }
