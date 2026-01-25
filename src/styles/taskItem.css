@@ -123,7 +123,7 @@
 }
 
 .input-wrong {
-  border: 2px solid red;
+  border: 2px solid rgb(0, 123, 255);
   background-color: #ffe0e0;
 }
 
@@ -176,6 +176,20 @@ input {
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
+}
+
+.input-locked {
+  background-color: #ffb3b3;
+  border: 2px solid rgb(25, 0, 255);
+  color: #555;
+}
+
+.input-wrong {
+  border: 2px solid rgb(25, 0, 255);
+}
+
+.input-correct {
+  border: 2px solid green;
 }
 
 
